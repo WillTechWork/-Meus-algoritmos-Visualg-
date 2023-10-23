@@ -1,2 +1,2 @@
 # Meus-algoritmos-Visualg
-Lógica de programação - Algoritmos.
+Lógica de program#ção - Algoritmos.
